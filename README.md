@@ -10,7 +10,6 @@ Here are the `Docs` to self host the site (soon)
 ## Credits
 
 `HTML` https://en.wikipedia.org/wiki/HyperText_Markup_Language
-`CSS` https://en.wikipedia.org/wiki/Cascading_Style_Sheets
 `LICENSE` https://opensource.org/licenses/MIT
 
 
