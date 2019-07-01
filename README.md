@@ -11,8 +11,6 @@ Here are the `Docs` to self host the site (soon)
 
 `HTML` https://en.wikipedia.org/wiki/HyperText_Markup_Language
 `LICENSE` https://opensource.org/licenses/MIT
-And too Vscode!
-
 
 ## License
 [MIT](https://github.com/ItsClearly/itsclearly.github.io/blob/master/LICENSE)
